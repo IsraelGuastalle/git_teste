@@ -11,7 +11,6 @@ def print_message(n1, n2):
 def main():
     n1, n2 = gether_data()
 
-
     print_message(n1, n2)
 
     return None
